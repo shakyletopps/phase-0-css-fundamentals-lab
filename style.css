@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+ div.image-wrapper {
+  text-align: center;
+  width: 900px;
+
+ }
+
+div.navigation {
+  padding: 10px;
+  background-color:red;
+  text-align: center;
+}
+
+#featured-property{
+ width: 1000px;
+text-align: center;
+padding: 200px;
+font-size: 19px;
+}
+
+#contacts,
+#Correspondence,
+#Links,
+#Follow {
+float: left;
+  text-align: right;
+  width: 300px;
+
+ }
+
+
+
